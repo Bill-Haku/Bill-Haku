@@ -6,9 +6,13 @@ contact with me with all topics.
 
 ## Recent repositories I am working on
 
+[ToiletOS](https://github.com/Bill-Haku/toiletos)
+
 [Zhuaiyuwen Official Site](https://github.com/Bill-Haku/Bill-Haku.github.io)
 
 [Ayaki](https://github.com/Bill-Haku/AyakiBot)
+
+[Genshin-Dictionary](https://github.com/Bill-Haku/genshin-langdata)
 
 ## Github Info
 

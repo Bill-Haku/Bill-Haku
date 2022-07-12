@@ -34,4 +34,6 @@ For detail informations about myself, you can see it on [my homepage](https://ha
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bill-Haku&show_icons=true)](https://github.com/Bill-Haku)
 
+### GitHub Contribution Graph
+
 <img src="https://ghchart.rshah.org/Bill-Haku" />

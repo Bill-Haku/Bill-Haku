@@ -21,7 +21,7 @@ For detail informations about myself, you can see it on [my homepage](https://ha
 - Name: Bill Haku
 - Nationality: China
 - School: [UESTC](https://www.uestc.edu.cn)
-- Email: Haku_Bill@outlook.com
+- Email: [Haku_Bill@outlook.com](mailto:haku_bill@outlook.com)
 - Work Languages: English, Simplified Chinese, Japanese, Traditional Chinese
 - Waifus: Kamisato Ayaka, Yoimiya, Ganyu, Keqing
 - Homepage: [https://hakubill.tech](https://hakubill.tech)

@@ -16,12 +16,6 @@ For detail informations about myself, you can see it on [my homepage](https://ha
 
 [Genshin-Dictionary](https://github.com/Bill-Haku/genshin-langdata)
 
-## Github Info
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bill-Haku&show_icons=true)](https://github.com/Bill-Haku)
-
-[![GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bill-Haku)](https://github.com/Bill-Haku)
-
 ## Self Introduction
 
 - Name: Bill Haku
@@ -32,9 +26,19 @@ For detail informations about myself, you can see it on [my homepage](https://ha
 - Waifus: Kamisato Ayaka, Yoimiya, Ganyu, Keqing
 - Homepage: [https://hakubill.tech](https://hakubill.tech)
 
+## Programming Language
+
+[![GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bill-Haku)](https://github.com/Bill-Haku)
+
 ## Learning
 
 - HTML
 - Javascript
 - CSS
 - Genshin Impact
+
+## Github Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bill-Haku&show_icons=true)](https://github.com/Bill-Haku)
+
+<img src="https://ghchart.rshah.org/Bill-Haku" />

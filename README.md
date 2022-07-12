@@ -30,13 +30,6 @@ For detail informations about myself, you can see it on [my homepage](https://ha
 
 [![GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bill-Haku)](https://github.com/Bill-Haku)
 
-## Learning
-
-- HTML
-- Javascript
-- CSS
-- Genshin Impact
-
 ## Github Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bill-Haku&show_icons=true)](https://github.com/Bill-Haku)

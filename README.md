@@ -16,6 +16,8 @@ For detail informations about myself, you can see it on [my homepage](https://ha
 
 [Genshin-Dictionary](https://github.com/Bill-Haku/genshin-langdata)
 
+[UESTCBBS(Private)](https://github.com/UESTC-star-studio-ios/UESTCBBS)
+
 ## Self Introduction
 
 - Name: Bill Haku

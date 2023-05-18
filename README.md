@@ -8,13 +8,13 @@ For detail informations about myself, you can see it on [my homepage](https://ha
 
 ## Recent repositories I am working on
 
-[ToiletOS](https://github.com/Bill-Haku/toiletos)
-
-[Zhuaiyuwen Official Site](https://github.com/Bill-Haku/Bill-Haku.github.io)
-
-[Ayaki](https://github.com/Bill-Haku/AyakiBot)
+[HSR Pizza Helper](https://github.com/pizza-studio/hsrpizzahelper)
 
 [Genshin-Dictionary](https://github.com/Bill-Haku/genshin-langdata)
+
+[ToiletOS](https://github.com/Bill-Haku/toiletos)
+
+[Ayaki](https://github.com/Bill-Haku/AyakiBot)
 
 [UESTCBBS(Private)](https://github.com/UESTC-star-studio-ios/UESTCBBS)
 
@@ -24,11 +24,11 @@ For detail informations about myself, you can see it on [my homepage](https://ha
 - Nationality: China
 - School: [UESTC](https://www.uestc.edu.cn)
 - Email: [i@hakubill.tech](mailto:i@hakubill.tech)
-- Work Languages: English, Simplified Chinese, Japanese, Traditional Chinese
-- Waifus: Kamisato Ayaka, Yoimiya, Ganyu, Keqing
+- Working Languages: English, Simplified Chinese, Japanese, Traditional Chinese
+- Waifus: Aisaka Taiga, Qingque, Kamisato Ayaka, Yoimiya, Keqing
 - Homepage: [https://hakubill.tech](https://hakubill.tech)
 
-## Programming Language
+## Programming Languages
 
 [![GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bill-Haku)](https://github.com/Bill-Haku)
 

@@ -6,6 +6,10 @@ contact with me with all topics.
 
 For detail informations about myself, you can see it on [my homepage](https://hakubill.tech/post/about_me/).
 
+I am a member of [Pizza Studio](https://github.com/pizza-studio), which released Apps of Genshin Pizza Helper and HSR Pizza Helper.
+
+I am also a member of [UESTC Star Studio](https://github.com/UESTC-star-studio-ios) and [UIGF Organization](https://github.com/UIGF-org).
+
 ## Recent repositories I am working on
 
 [HSR Pizza Helper](https://github.com/pizza-studio/hsrpizzahelper)

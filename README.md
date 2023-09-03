@@ -6,7 +6,7 @@ contact with me with all topics.
 
 For detail informations about myself, you can see it on [my homepage](https://hakubill.tech/post/about_me/).
 
-I am a member of [Pizza Studio](https://github.com/pizza-studio), which released Apps of Genshin Pizza Helper and HSR Pizza Helper.
+I am a member of [Pizza Studio](https://github.com/pizza-studio), which released Apps including Pizza Helper for Genshin, Pizza Helper for HSR, Herta Terminal and Pizza Helper for Blue Archive. Also, we made an [online dictionary](https://hsrdict.pizzastudio.org) for Honkai: Star Rail. See our official website [here](https://pizzastudio.org).
 
 I am also a member of [UESTC Star Studio](https://github.com/UESTC-star-studio-ios) and [UIGF Organization](https://github.com/UIGF-org).
 
@@ -29,12 +29,12 @@ I am also a member of [UESTC Star Studio](https://github.com/UESTC-star-studio-i
 - School: [UESTC](https://www.uestc.edu.cn)
 - Email: [i@hakubill.tech](mailto:i@hakubill.tech)
 - Working Languages: English, Simplified Chinese, Japanese, Traditional Chinese
-- Waifus: Aisaka Taiga, Qingque, Kamisato Ayaka, Yoimiya, Keqing
+- Waifus: Aisaka Taiga, Kamisato Ayaka, Yoimiya
 - Homepage: [https://hakubill.tech](https://hakubill.tech)
 
 ## Programming Languages
 
-[![GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bill-Haku)](https://github.com/Bill-Haku)
+[![GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bill-Haku&hide=css,html)](https://github.com/Bill-Haku)
 
 ## Github Stats
 

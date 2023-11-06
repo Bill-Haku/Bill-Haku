@@ -4,7 +4,7 @@ Nice to meet you and welcome to my Github Profile. Here you can find a brief int
 in the following points. I am always eagering to make friends with everyone and feel free to
 contact with me with all topics.
 
-For detail informations about myself, you can see it on [my homepage](https://hakubill.tech/post/about_me/).
+For detail informations about myself, you can see it on [my homepage](https://hakubill.tech/post/about_me/). If you are interested in my articles, you can see them on [my blog site](https://blog.hakubill.tech).
 
 I am a member of [Pizza Studio](https://github.com/pizza-studio), which released Apps including Pizza Helper for Genshin, Pizza Helper for HSR, Herta Terminal and Pizza Helper for Blue Archive. Also, we made an [online dictionary](https://hsrdict.pizzastudio.org) for Honkai: Star Rail. See our official website [here](https://pizzastudio.org).
 

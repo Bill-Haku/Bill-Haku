@@ -12,7 +12,9 @@ I am also a member of [UESTC Star Studio](https://github.com/UESTC-star-studio-i
 
 ## Recent repositories I am working on
 
-[HSR Pizza Helper](https://github.com/pizza-studio/hsrpizzahelper)
+[Pizza Helper for Genshin](https://github.com/pizza-studio/GenshinPizzaHelper)
+
+[Pizza Helper for HSR](https://github.com/pizza-studio/hsrpizzahelper)
 
 [Genshin-Dictionary](https://github.com/Bill-Haku/genshin-langdata)
 
@@ -26,10 +28,9 @@ I am also a member of [UESTC Star Studio](https://github.com/UESTC-star-studio-i
 
 - Name: Bill Haku
 - Nationality: China
-- School: [UESTC](https://www.uestc.edu.cn)
+- School: [Nanyang Technological University](https://www.ntu.edu.sg)
 - Email: [i@hakubill.tech](mailto:i@hakubill.tech)
 - Working Languages: English, Simplified Chinese, Japanese, Traditional Chinese
-- Waifus: Aisaka Taiga, Kamisato Ayaka, Yoimiya
 - Homepage: [https://hakubill.tech](https://hakubill.tech)
 
 ## Programming Languages
